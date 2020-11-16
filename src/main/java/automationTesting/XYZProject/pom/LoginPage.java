@@ -13,7 +13,7 @@ public static final By link_InsideALtoroMutual= By.linkText("INSIDE ALTORO MUTUA
 public static final By text_UserName=By.id("uid");
 public static final By text_Password=By.id("passw");
 public static final By btn_Login=By.name("btnSubmit");
-
+public static final By btn_Login2=By.name("btnSubmit");
 public LoginPage(WebDriver driver){
 	this.driver=driver;
 	
